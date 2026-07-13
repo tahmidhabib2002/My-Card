@@ -28,4 +28,3 @@ function Index() {
     <div style={{ minHeight: "100vh", background: "#05070d" }} aria-hidden="true" />
   );
 }
-
